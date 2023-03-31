@@ -1,1 +1,11 @@
-# Spring Boot API- Conceitos Iniciais
+# Spring Boot API - Conceitos Iniciais
+- Criar um método utilizando o @GetMapping;
+- Criar um método utilizando o @PostMapping recebendo atributos dentro do body;
+- Passar parâmetros pela url;
+- Como utilizar a propriedade filter do Stream;
+- Comunicação com o banco de dados;
+- Criar a entidade tabela;
+- Criar um auto increment e definir um atributo como sendo chave-primária;
+- Criar o repository utilizando o Jpa Repository;
+- Utilizar Query para criar consultas manualmente;
+- Utlizando palavras reservadas do Spring Data.
